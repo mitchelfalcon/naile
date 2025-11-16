@@ -1,4 +1,4 @@
-Not Found# 💻 Código C++ - Todos los Ejercicios
+💻 Código C++ - Todos los Ejercicios
 
 Este archivo contiene el código fuente completo de todos los ejercicios para que puedas copiarlos, compilarlos y ejecutarlos en tu computadora.
 
