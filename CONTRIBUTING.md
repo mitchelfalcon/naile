@@ -18,7 +18,7 @@
 
 ```bash
 # Fork el repositorio en GitHub, luego:
-git clone https://github.com/TU-USUARIO/tutorial-cpp-estructuras.git
+git clone https://github.com/mitchelfalcontutorial-cpp-estructuras.git
 cd tutorial-cpp-estructuras
 ```
 
