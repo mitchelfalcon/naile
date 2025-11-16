@@ -140,18 +140,18 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## 👨‍💻 Autor
 
-Creado con ❤️ para ayudar a estudiantes a aprender programación.
+Creado por Nailea Falcon con ❤️ para ayudar a estudiantes a aprender programación.
 
 ## 🙏 Agradecimientos
 
-- Basado en ejercicios de lógica de programación en C++
+- Basado en ejercicios de lógica de programación en C++ de la Universidad del Valle de México
 - Diseñado con fines educativos
-- Inspirado en la necesidad de hacer la programación más accesible e interactiva
+- Inspirado en la necesidad de hacer la programación más accesible e interactiva para México
 
 ---
 
 ## 📞 Contacto
 
-Si tienes preguntas, sugerencias o encuentras algún error, no dudes en abrir un Issue en GitHub.
+Si tienes preguntas, sugerencias o encuentras algún error, no dudes en abrir un Issue en GitHub o contactar en X o Instagram @mitcheladaa.
 
-**¡Happy Coding! 🚀**
+**¡Happy Coding a todos! 🚀**
